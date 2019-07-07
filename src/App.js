@@ -114,6 +114,7 @@ function TodoItem(props) {
 function App() {
     return <div>
         <TodoApp />
+        <hi>hello todo </hi>
     </div>;
 }
 
